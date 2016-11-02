@@ -23,7 +23,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Ilija Ilievski, Shuicheng Yan, Jiashi Feng, **A Focused Dynamic Attention Model for Visual Question Answering**, arXiv:1604.01485. [[Paper]](https://arxiv.org/pdf/1604.01485v1.pdf)
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
-    - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
+    - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf) [[code]](https://github.com/jacobandreas/nmn2)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
     - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274) [[code]](https://github.com/JamesChuanggg/san-torch)    
     - Kevin J. Shih, Saurabh Singh, Derek Hoiem, **Where To Look: Focus Regions for Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1511.07394v2.pdf)        
